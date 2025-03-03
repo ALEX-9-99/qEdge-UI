@@ -43,7 +43,7 @@ To get started you will need the qEdge-UI electronic boards (main and display ad
 To get started with the software development you need a PC with:
 
 * preinstalled Windows 7 or newer (64Bit), Linux (32/64Bit) or MacOS 10.10 newer
-* An Arduino IDE 1.8.x including USB Driver support
+* An Arduino IDE 1.8.x or 2.x.x including USB Driver support
 * Addional you can use our qEdge-UI examples and libraries as a starting point for your own software development or you can download the precompiled UFS binaries of our qEdge-UI examples. [Here](Software) you can find the sources and installation guideline.
 
 
