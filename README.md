@@ -14,7 +14,7 @@ Based on the Raspberry Pi Pico (2), we have created a design that can be used as
 Key hardware features of **qEdge-UI (qEdge-UI++)**:
 
 - Raspberry Pi Pico RP2040 (2350)
-- Dual-Core ARM Cortex M0+ CPU @133 MHz (ARM Cortex M33 @150 MHz or RISC-V)
+- Dual-Core ARM Cortex M0+ CPU @133 MHz, [NEW 200 MHz](https://github.com/raspberrypi/pico-sdk/releases/tag/2.1.1) (ARM Cortex M33 @150 MHz or RISC-V)
 - 264KB SRAM and 2MB Flash (520 KB / 4MB)
 - WiFi + Bluetooth (Pico-W/Pico2-W)
 - USB interface and power supply
